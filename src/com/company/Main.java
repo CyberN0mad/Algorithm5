@@ -2,6 +2,8 @@ package com.company;
 
 import java.util.Random;
 
+//Shaker
+
 public class Main {
     public static void main(String[] args) {
         int temp; // znachenie
